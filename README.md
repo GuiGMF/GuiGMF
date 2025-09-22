@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
+<p>
+  
+  <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -51,4 +53,4 @@ Here are some ideas to get you started:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
+</p>
