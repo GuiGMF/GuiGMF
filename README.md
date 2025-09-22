@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-##🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <p>
   
